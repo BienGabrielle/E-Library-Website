@@ -6,3 +6,10 @@ Gabrielle Pangilinan
 Oliver Sazon
 
 PRESS VIEW RAW IN GITHUB TO INSTALL ZIP FILE 
+
+ROLES:
+
+Christian Miranda - Back-End Developer – Handles PHP and database 
+Kyle Lising - Front-End Developer – Designs and styles the website
+Gabrielle Pangilinan - Project Manager & Tester – Keeps track of tasks, tests the site, and prepares the presentation.
+Oliver Sazon - Support & Documentation – Helps both sides, writes project details and guides.
